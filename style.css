@@ -5,3 +5,11 @@ body {
     width: 960px;
     font-size: 18px;
 }
+
+header,
+nav,
+section,
+aside,
+footer {
+    background: #ebebeb;
+}
