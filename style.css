@@ -13,6 +13,8 @@ section,
 aside,
 footer {
     background: #ebebeb;
+    margin: 20px;
+    padding: 20px;
 }
 
 article{
@@ -24,4 +26,30 @@ h1,
 p {
     color: #777;
     background: #ebebeb;
+    margin: 20px;
+    padding: 20px;
+}
+
+.heading {
+
+}
+
+.navigate {
+
+}
+
+.section {
+
+}
+
+.article {
+
+}
+
+.aside {
+
+}
+
+.footer {
+    
 }
