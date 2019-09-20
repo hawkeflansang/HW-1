@@ -39,7 +39,8 @@ p {
 }
 
 .section {
-
+    float: left;
+    width: 45%;
 }
 
 .article {
@@ -47,9 +48,10 @@ p {
 }
 
 .aside {
-
+    float: right;
+    width: 40%;
 }
 
 .footer {
-    
+    clear: both;
 }
